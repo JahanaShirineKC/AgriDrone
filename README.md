@@ -1,8 +1,9 @@
 # AgriDrone
 
 This repository contains the code and simulations for an agricultural drone system designed for two primary applications: mango harvesting and palm pest management. The project leverages autonomous drones equipped with specialized end-effectors and sensors to efficiently and effectively manage these tasks.
-Mango Harvesting
+# Mango Harvesting
 Objective: Develop an automated solution for precise and efficient harvesting of mangoes using a drone with a robotic arm and gripper mechanism.
+
 
 Key Features:
 
@@ -14,7 +15,7 @@ Simulation Details:
 
 The simulation demonstrates the movement of the manipulator and end-effector towards the mango, the closing of the gripper, and the retrieval of the fruit.
 Plots and animations illustrate the detection of mangoes and the actions of the robotic arm.
-Palm Pest Management
+# Palm Pest Management
 Objective: Develop an automated solution for targeted pest management in palm trees using a drone equipped with spraying mechanisms and sound wave emitters.
 
 Key Features:
